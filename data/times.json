@@ -1,0 +1,8 @@
+{
+    "arsenal":    ["arsenal/1.jpg",    "arsenal/2.jpg",    "arsenal/3.jpg"],
+    "chelsea":    ["chelsea/1.jpg",    "chelsea/2.jpg",    "chelsea/3.jpg"],
+    "liverpool":  ["liverpool/1.jpg",  "liverpool/2.jpg",  "liverpool/3.jpg"],
+    "manchesterCity":   ["manchesterCity/1.jpg",  "manchesterCity/2.jpg", "manchesterCity/3.jpg"],
+    "manchesterUnited":   ["mnchesterUnited/1.jpg",  "manchesterUnited/2.jpg", "manchesterUnited/3.jpg"],
+    "tottenham":   ["tottenham/1.jpg",  "tottenham/2.jpg", "tottenham/3.jpg"]
+}
