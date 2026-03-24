@@ -158,5 +158,18 @@ Lucas Gabriel
 
 Curso Técnico em Desenvolvimento de Sistemas
 
-<img width="1917" height="642" alt="image" src="https://github.com/user-attachments/assets/d753406e-da05-481b-baa0-bf0673546861" />
+Aba Network : 
+<img width="1917" height="642" alt="image" src="https://github.com/user-attachments/assets/f0a6aab9-dee0-4e95-9424-9f9b7e492865" />
+
+Ip do Servidor : 
+<img width="1118" height="637" alt="image" src="https://github.com/user-attachments/assets/e10528da-4a27-40ad-b139-bc14065564c5" />
+
+Servidor Rodando :
+<img width="1108" height="613" alt="image" src="https://github.com/user-attachments/assets/bc4d2c10-0bb2-49e5-95fd-c3fdfdf819e9" />
+
+
+
+
+
+
 
