@@ -157,3 +157,6 @@ Kauã Teles
 Lucas Gabriel
 
 Curso Técnico em Desenvolvimento de Sistemas
+
+<img width="1917" height="642" alt="image" src="https://github.com/user-attachments/assets/d753406e-da05-481b-baa0-bf0673546861" />
+
